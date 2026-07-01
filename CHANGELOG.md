@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.33](https://github.com/kunchenguid/lavish-axi/compare/lavish-axi-v0.1.32...lavish-axi-v0.1.33) (2026-07-01)
+
+
+### Features
+
+* add artifact export and hosted sharing ([#123](https://github.com/kunchenguid/lavish-axi/issues/123)) ([d7deba1](https://github.com/kunchenguid/lavish-axi/commit/d7deba16aec45a5752a853303f60b5c8dc45e535))
+* **cli:** add GitHub Copilot CLI session start hook support ([#106](https://github.com/kunchenguid/lavish-axi/issues/106)) ([0b3e28e](https://github.com/kunchenguid/lavish-axi/commit/0b3e28eae0a139540b7b274293cea98d49961dc4))
+
 ## [0.1.32](https://github.com/kunchenguid/lavish-axi/compare/lavish-axi-v0.1.31...lavish-axi-v0.1.32) (2026-06-27)
 
 
